@@ -1,4 +1,5 @@
 
+
 "id": "1",
 "Author": "Dr.A.P.J Abdul Kalam",
 "Born": "15 October 1931",
@@ -53,4 +54,13 @@
 "Born": "15 September 1890",
 "Status": "Died on 12th january",
 "Book Name": "The unexpected guest",
-"Link": "https://www.amazon.in/dp/0008196672/ref=cm_sw_r_apan_glt_fabc_dl_CNKQZGRXJ60AR35WPS6H"
+"Link": "https://www.amazon.in/dp/0008196672/ref=cm_sw_r_apan_glt_fabc_dl_CNKQZGRXJ60AR35WPS6H",
+
+
+"id": "9",
+"Author": "Vishwas Nangare Patil",
+"Born": "5 October 1973",
+"Status": "Alive (age 47 years)",
+"Book Name": "man me hai vishwas",
+"Link": "https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil"
+
