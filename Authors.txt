@@ -54,3 +54,10 @@
 "Status": "Alive (age 47 years)",
 "Book Name": "man me hai vishwas",
 "Link": "https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil",
+
+ "id": "9",
+ "Author": "Chetan Bhagat",
+ "Born": "22 April 1947",
+ "Status": "Alive (age 47 years)",
+ "Book Name": "Girl in Room 105",
+ "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
