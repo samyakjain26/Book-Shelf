@@ -1,4 +1,5 @@
 
+
 "id": "1",
 "Author": "Dr.A.P.J Abdul Kalam",
 "Born": "15 October 1931",
@@ -49,11 +50,12 @@
 "Link": "https://www.google.com/search?q=Jhumpa+Lahiri&sxsrf=AOaemvKpdI_p2NgfylGgpg9Khcdk5-G2KQ%3A1633021404264&ei=3O1VYZXBD4ev9QOd8r6IBQ&oq=Jhumpa+Lahiri&gs_lcp=Cgdnd3Mtd2l6EAMyBwguECcQkwIyDQgAEIAEEIcCELEDEBQyBAgAEEMyBQguEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUILhCABDIFCC4QgAQ6BwgAEEcQsAM6EAguEMgDELADEEMQiwMQkwI6DQguEMgDELADEEMQiwNKBQg4EgExSgQIQRgAUIPVAViD1QFgw9sBaANwAngAgAHlA4gB5QOSAQM0LTGYAQCgAQKgAQHIAQ64AQLAAQE&sclient=gws-wiz&ved=0ahUKEwiVn9jllqfzAhWHV30KHR25D1EQ4dUDCA4&uact=5",
 
 "id": "8",
-"Author": "mein kampf",
-"Born": "20 april 1889",
-"Status": "dead on 30 april 1945",
-"Book Name": "mein kampf",
-"Link": "https://www.sjsu.edu/people/mary.pickering/courses/His146/s1/MeinKampfpartone0001.pdf",
+"Author": "Agatha Christie",
+"Born": "15 September 1890",
+"Status": "Died on 12th january",
+"Book Name": "The unexpected guest",
+"Link": "https://www.amazon.in/dp/0008196672/ref=cm_sw_r_apan_glt_fabc_dl_CNKQZGRXJ60AR35WPS6H",
+
 
 "id": "9",
 "Author": "Vishwas Nangare Patil",
