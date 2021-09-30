@@ -53,4 +53,12 @@
 "Born": "20 april 1889",
 "Status": "dead on 30 april 1945",
 "Book Name": "mein kampf",
-"Link": "https://www.sjsu.edu/people/mary.pickering/courses/His146/s1/MeinKampfpartone0001.pdf"
+"Link": "https://www.sjsu.edu/people/mary.pickering/courses/His146/s1/MeinKampfpartone0001.pdf",
+
+"id": "9",
+"Author": "Vishwas Nangare Patil",
+"Born": "5 October 1973",
+"Status": "Alive (age 47 years)",
+"Book Name": "man me hai vishwas",
+"Link": "https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil"
+
