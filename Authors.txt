@@ -62,3 +62,11 @@
  "Status": "Alive (age 47 years)",
  "Book Name": "Girl in Room 105",
  "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
+ 
+ 
+  "id": "10",
+ "Author": "Sidney Sheldon",
+ "Born": "February 11, 1917",
+ "Status": "Died (January 30, 2007)",
+ "Book Name": "Memories of Midnight",
+ "Link": "https://www.goodreads.com/book/show/106648.Memories_of_Midnight",
