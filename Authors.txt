@@ -49,8 +49,16 @@
 "Link": "https://www.google.com/search?q=Jhumpa+Lahiri&sxsrf=AOaemvKpdI_p2NgfylGgpg9Khcdk5-G2KQ%3A1633021404264&ei=3O1VYZXBD4ev9QOd8r6IBQ&oq=Jhumpa+Lahiri&gs_lcp=Cgdnd3Mtd2l6EAMyBwguECcQkwIyDQgAEIAEEIcCELEDEBQyBAgAEEMyBQguEIAEMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUILhCABDIFCC4QgAQ6BwgAEEcQsAM6EAguEMgDELADEEMQiwMQkwI6DQguEMgDELADEEMQiwNKBQg4EgExSgQIQRgAUIPVAViD1QFgw9sBaANwAngAgAHlA4gB5QOSAQM0LTGYAQCgAQKgAQHIAQ64AQLAAQE&sclient=gws-wiz&ved=0ahUKEwiVn9jllqfzAhWHV30KHR25D1EQ4dUDCA4&uact=5",
 
 "id": "8",
+"Author": "mein kampf",
+"Born": "20 april 1889",
+"Status": "dead on 30 april 1945",
+"Book Name": "mein kampf",
+"Link": "https://www.sjsu.edu/people/mary.pickering/courses/His146/s1/MeinKampfpartone0001.pdf",
+
+"id": "9",
 "Author": "Vishwas Nangare Patil",
 "Born": "5 October 1973",
 "Status": "Alive (age 47 years)",
 "Book Name": "man me hai vishwas",
-"Link": "https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil",
+"Link": "https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil"
+
