@@ -70,5 +70,13 @@
  "Status": "Died (January 30, 2007)",
  "Book Name": "Memories of Midnight",
  "Link": "https://www.goodreads.com/book/show/106648.Memories_of_Midnight",
+ 
+  "id": "11",
+ "Author": " Aravind Adiga",
+ "Born": "February 11, 1917",
+ "Status": "Died (January 30, 2007)",
+ "Book Name": "The White Tiger",
+ "Link": "https://www.google.com/aclk?sa=L&ai=DChcSEwie1qzd0qjzAhWjk2YCHcWpB-EYABAEGgJzbQ&ae=2&sig=AOD64_2_eqi2MirqVycSR93MkqLV8P7N-w&ctype=5&q=&ved=2ahUKEwi106Dd0qjzAhXhjOYKHQL_Az0Qwg96BAgBED4&adurl=",
+
 
 
