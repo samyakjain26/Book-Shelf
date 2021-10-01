@@ -71,4 +71,11 @@
  "Book Name": "Memories of Midnight",
  "Link": "https://www.goodreads.com/book/show/106648.Memories_of_Midnight",
 
+"id": "11",
+"Author": "Shiv Khera",
+"Born": "23 August 1961",
+"Status": "Alive",
+"Book Name": "You Can Win", 
+"Link": "https://oiipdf.com/you-can-win-shiv-khera",
+
 
