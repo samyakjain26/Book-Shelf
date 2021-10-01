@@ -70,3 +70,11 @@
  "Status": "Died (January 30, 2007)",
  "Book Name": "Memories of Midnight",
  "Link": "https://www.goodreads.com/book/show/106648.Memories_of_Midnight",
+
+
+"id": "11",
+ "Author": "Anna Todd",
+ "Born": "March 20, 1989",
+ "Status": "Alive (Age 32 years )",
+ "Book Name": "Aftert",
+ "Link": "https://www.amazon.in/After-Part-Anna-Todd/dp/1476792488",
