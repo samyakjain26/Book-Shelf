@@ -85,12 +85,12 @@
 "Status": "Alive",
 "Book Name": "You Can Win", 
 "Link": "https://oiipdf.com/you-can-win-shiv-khera",
- 
- "id": "13",
-"Author": "joseph murphy",
-"Born": "20 May 1898",
-"Status": "Died December 16, 1981 ",
-"Book Name": "power of subconscious mind", 
-"Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
+
+"id": "14",
+"Author": "Savi Sharma",
+"Born": "18 July 1993",
+"Status": "Alive",
+"Book Name": "Everyone Has a Story", 
+"Link": "https://oiipdf.com/everyone-has-a-story-novel",
 
 
