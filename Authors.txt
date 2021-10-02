@@ -86,12 +86,4 @@
 "Book Name": "You Can Win", 
 "Link": "https://oiipdf.com/you-can-win-shiv-khera",
 
-"id": "12",
-"Author": "Chetan Bhagat",
-"Born": "22 April 1974",
-"Status": "Alive",
-"Book Name": "
-Five Point Someone", 
-"Link": "https://www.hsslive.co.in/2021/03/chetan-bhagat-books-pdf-download.html",
-
 
